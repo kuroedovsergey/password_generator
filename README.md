@@ -1,1 +1,3 @@
-# password_generator v 0.1
+# password_generator v 0.2
+
+##Смена логики отбора строки для выбора пароля. Уход от множественных if-else
